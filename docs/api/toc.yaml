@@ -1,0 +1,9 @@
+title: Подключение по API
+href: index.yaml
+items:
+  - name: Описание API
+    href: description.md
+  - name: Аутентификация
+    href: auth.md
+  - name: Методы
+    href: methods.md

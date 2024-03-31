@@ -1,0 +1,8 @@
+title: Подключение по API
+links:
+  - title: Описание API
+    href: description.md
+  - title: Аутентификация (Bearer Authentication)
+    href: auth.md
+  - title: Методы
+    href: methods.md
