@@ -1,0 +1,18 @@
+title: Документация
+href: index.yaml
+navigation:
+  logo:
+    url: 'https://terpay.ru'
+    text: 'Terpay'
+  header:
+    rightItems:
+      - type: controls
+items:
+  - name: Начало работы
+    href: service-setup.md
+  - name: Подключение по API
+    include:
+      path: api/toc.yaml
+      mode: link
+  - name: Нотификации
+    href: notification.md
